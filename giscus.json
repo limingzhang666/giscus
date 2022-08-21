@@ -6,7 +6,11 @@
     "https://giscus-component.vercel.app"
   ],
   "originsRegex": [
-
+    "http://localhost:[0-9]+",
+    "https://yinshi.tech:[0-9]+",
+    "https://yinshi.tech:80",
+    "https://yinshi.tech:3000",
+    "https://yinshi.tech:3434"
   ],
   "defaultCommentOrder": "oldest"
 }
